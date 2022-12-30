@@ -19,7 +19,6 @@ Skills:
 <img src="https://user-images.githubusercontent.com/102726399/210113174-2e61f53b-de98-487c-af65-2734c1d1bd6f.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113173-62bcf1f2-cf7d-44b6-8915-7ebd33a05377.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113494-fddc99e3-f5d9-47ae-9b1f-ab688fcfbdcd.png" height="40"/>
-
 <img src="https://user-images.githubusercontent.com/102726399/210111469-9b7ba0e7-40d3-4869-b1cb-fb89507f4b48.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210111467-0f3d0a7c-fadb-4cf5-b9c4-541b5ca61495.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113564-6777849c-36c9-46de-828c-f1299961ac2d.png" height="40"/>
