@@ -26,7 +26,7 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 
 
-#### My projects: 
+#### My projects 🔋: 
 
 
 
