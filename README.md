@@ -13,7 +13,7 @@ After 5 years of experience in the building industry I decided to move to the Di
 - 📫 How to reach me: mariia.mercier@outlook.fr.
 
 
-## Skills:
+#### Skills:
 <img src="https://user-images.githubusercontent.com/102726399/210112034-5c5b9094-1c35-4d28-bc75-6c6fff3f0aa7.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113732-f23f728b-9c1a-4e21-85b5-9d6572e4d88c.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113174-2e61f53b-de98-487c-af65-2734c1d1bd6f.png" height="40"/>
@@ -34,7 +34,7 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 
 
-## My projects: 
+#### My projects: 
 
 
 
