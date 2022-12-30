@@ -13,6 +13,15 @@ After 5 years of experience in the building industry I decided to move to the Di
 - 📫 How to reach me: mariia.mercier@outlook.fr.
 
 
+Skills:
+
+
+My projects: 
+
+
+
+
+
 <!--
 **MariiaMERCIER/MariiaMERCIER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
