@@ -14,7 +14,6 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 
 Skills:
-
 <img src="https://user-images.githubusercontent.com/102726399/210112034-5c5b9094-1c35-4d28-bc75-6c6fff3f0aa7.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113732-f23f728b-9c1a-4e21-85b5-9d6572e4d88c.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210113173-62bcf1f2-cf7d-44b6-8915-7ebd33a05377.png" height="40"/>
