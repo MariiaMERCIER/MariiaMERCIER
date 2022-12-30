@@ -25,6 +25,7 @@ Skills:
 <img src="https://user-images.githubusercontent.com/102726399/210113101-63523a19-0d98-4269-b73e-32ef7d375ded.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/102726399/210112338-92c5272d-3aad-4185-b594-70c3bfa219c7.png" height="40"/>
 
+![2560px-Netlify_logo svg](https://user-images.githubusercontent.com/102726399/210113326-aefc9785-74ad-49f8-89f8-010d17c681a4.png)
 
 
 
