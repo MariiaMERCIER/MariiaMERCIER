@@ -25,7 +25,7 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 #### My projects 👩‍💻: 
 
-<a><img src="https://user-images.githubusercontent.com/102726399/211910124-f417b1af-ea1e-4361-8d38-8fc9881980a4.png" border="2px solid red" width="50%" style="border-radius:50%"/></a>
+<a><img src="https://user-images.githubusercontent.com/102726399/211910124-f417b1af-ea1e-4361-8d38-8fc9881980a4.png"  style="border: 3px solid red" width="50%" /></a>
 
 
 
