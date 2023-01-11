@@ -27,7 +27,7 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 
 
-<a href="https://tripadvisor-mariiamercier.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211910124-f417b1af-ea1e-4361-8d38-8fc9881980a4.png"  width="50%" /></a><a href="https://my-netflix-movies.netlify.app/" ><img src="https://user-images.githubusercontent.com/102726399/211912036-f7d80785-bb30-49c8-96c1-a57f09ba560a.png"  width="50%" /></a><a href="https://my-deliveroo-replique.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211914058-ae47b54f-6c2c-46e7-bf1a-e46269896b66.png"  width="50%" /></a><a href="https://vinted-replica-mmercier.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211914815-906889eb-ba89-438c-98ff-33f80aec5f6b.png"  width="50%" /></a>
+<a href="https://tripadvisor-mariiamercier.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211910124-f417b1af-ea1e-4361-8d38-8fc9881980a4.png"  width="50%" height="300"/></a><a href="https://my-netflix-movies.netlify.app/" ><img src="https://user-images.githubusercontent.com/102726399/211912036-f7d80785-bb30-49c8-96c1-a57f09ba560a.png"  width="50%" height="300" /></a><a href="https://my-deliveroo-replique.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211914058-ae47b54f-6c2c-46e7-bf1a-e46269896b66.png"  width="50%"height="300" /></a><a href="https://vinted-replica-mmercier.netlify.app/"><img src="https://user-images.githubusercontent.com/102726399/211914815-906889eb-ba89-438c-98ff-33f80aec5f6b.png"  width="50%" height="300" /></a>
 
 
 
