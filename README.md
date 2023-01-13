@@ -30,12 +30,11 @@ After 5 years of experience in the building industry I decided to move to the Di
 
 AIRBNB (iOS)
 
-<img src="https://user-images.githubusercontent.com/102726399/212422403-41158019-ec6b-45b3-b0e7-7542fa9035c9.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422568-af75f4db-4418-4e62-adf4-042f30adb1f9.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422646-85fc618c-43a8-4964-8902-bed8406f9848.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422788-f96ee8af-7c43-4e87-ad92-7a803bdf5997.png" height="400" weigth="150" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422876-a1370cc2-b598-454e-bcef-3d6db0fd2661.png" height="400" weigth="150"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422403-41158019-ec6b-45b3-b0e7-7542fa9035c9.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422646-85fc618c-43a8-4964-8902-bed8406f9848.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422788-f96ee8af-7c43-4e87-ad92-7a803bdf5997.png" height="400" weigth="150" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212422876-a1370cc2-b598-454e-bcef-3d6db0fd2661.png" height="400" weigth="150"/>
 
 Happy Cow (iOS)
 
-<img src="https://user-images.githubusercontent.com/102726399/212425155-42773605-0156-436a-8ed1-988cae3fff11.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425212-38a613b8-cc83-4de9-8d8f-ef2020f6e0b8.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425297-8f11a6c2-2ab5-44fd-8a51-b5f0a15cbfea.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425367-f841755e-f912-4fe0-912d-0c0d198933a5.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425385-1e0d416a-48ca-40bd-9770-97a5b395af59.png" height="400" weigth="150"/>&nbsp;&nbsp;
-
+<img src="https://user-images.githubusercontent.com/102726399/212425155-42773605-0156-436a-8ed1-988cae3fff11.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425212-38a613b8-cc83-4de9-8d8f-ef2020f6e0b8.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425297-8f11a6c2-2ab5-44fd-8a51-b5f0a15cbfea.png" height="400" weigth="150"/>&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/102726399/212425367-f841755e-f912-4fe0-912d-0c0d198933a5.png" height="400" weigth="150"/>&nbsp;&nbsp;
 
 
 
