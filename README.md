@@ -35,12 +35,12 @@ After 5 years of experience in the building industry I decided to move to the Di
 #### My projects APPs 📱: 
 AIRBNB
 
-<img src="https://user-images.githubusercontent.com/102726399/212422403-41158019-ec6b-45b3-b0e7-7542fa9035c9.png" heigth="400"/>
-<img src="https://user-images.githubusercontent.com/102726399/212422568-af75f4db-4418-4e62-adf4-042f30adb1f9.png" heigth="400"/>
-<img src="https://user-images.githubusercontent.com/102726399/212422646-85fc618c-43a8-4964-8902-bed8406f9848.png" heigth="400"/>
-<img src="https://user-images.githubusercontent.com/102726399/212422788-f96ee8af-7c43-4e87-ad92-7a803bdf5997.png" heigth="400"/>
-<img src="https://user-images.githubusercontent.com/102726399/212422876-a1370cc2-b598-454e-bcef-3d6db0fd2661.png" heigth="400"/>
-<img src="https://user-images.githubusercontent.com/102726399/212422936-9c150f73-1cb8-4a91-b822-925490dfc541.png" heigth="400"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422403-41158019-ec6b-45b3-b0e7-7542fa9035c9.png" heigth="300" weigth="150"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422568-af75f4db-4418-4e62-adf4-042f30adb1f9.png" heigth="300" weigth="150"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422646-85fc618c-43a8-4964-8902-bed8406f9848.png" heigth="300" weigth="150"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422788-f96ee8af-7c43-4e87-ad92-7a803bdf5997.png" heigth="300" weigth="150" />
+<img src="https://user-images.githubusercontent.com/102726399/212422876-a1370cc2-b598-454e-bcef-3d6db0fd2661.png" heigth="300" weigth="150"/>
+<img src="https://user-images.githubusercontent.com/102726399/212422936-9c150f73-1cb8-4a91-b822-925490dfc541.png" heigth="300" weigth="150"/>
 
 
 
