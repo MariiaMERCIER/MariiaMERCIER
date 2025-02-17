@@ -23,7 +23,7 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 
   ##### 💻  Web - site:
 
-  🥊 Boxe club - a boxing club website built using Next.js 14.1.4 and styled with Tailwind Material for a clean and responsive design. ([demo](https://boxe-ascm.netlify.app)
+  🥊 [Boxe club](https://boxe-ascm.netlify.app) - a boxing club website built using Next.js 14.1.4 and styled with Tailwind Material for a clean and responsive design.
 
 <img height="300" width="450" alt="Capture d’écran 2025-02-07 à 14 22 01" src="https://github.com/user-attachments/assets/cbb2e3b9-cf86-43a2-9ac2-861ad0787d21" />
 <img height="300" width="450" alt="Capture d’écran 2025-02-07 à 14 21 55" src="https://github.com/user-attachments/assets/5a9c40c2-02f3-4530-af66-e863ea4aeba4" />
