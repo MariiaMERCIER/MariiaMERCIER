@@ -1,4 +1,4 @@
-### Hi, I'm Masha (or Mariia) 👋 
+## Hi, I'm Masha (or Mariia) 👋 
 
 I am a passionate developer with 2 years of experience, driven by a constant desire to learn and grow in the field of software development. I specialize in JavaScript, working with frameworks like Vue.js, React.js, and Next.js. I also have experience in building backend applications using Node.js, with frameworks like Express.js and Nest.js.
 
@@ -12,16 +12,16 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 - 📫 How to reach me: mariia.mercier@outlook.fr.
 
 
-#### Skills :
+### Skills :
 <img src="https://user-images.githubusercontent.com/102726399/210112034-5c5b9094-1c35-4d28-bc75-6c6fff3f0aa7.png" height="40"/> <img src="https://github.com/user-attachments/assets/5ac7108c-ce05-42df-9ff1-ae3c26373307" height="40"/> <img src="https://user-images.githubusercontent.com/102726399/210113174-2e61f53b-de98-487c-af65-2734c1d1bd6f.png" height="40"/> <img src="https://user-images.githubusercontent.com/102726399/210113732-f23f728b-9c1a-4e21-85b5-9d6572e4d88c.png" height="40"/>  <img src="https://github.com/user-attachments/assets/14e6ac85-307b-4cfe-9fde-5d850dec4b34" height="40" /> <img src="https://github.com/user-attachments/assets/b01d3947-fbf7-4f88-b5dc-3d7fd16d852d" height="40" /> <img src="https://user-images.githubusercontent.com/102726399/210112840-ea50d71b-8cb8-40b1-8adc-40a3d42093be.svg"  height="40"/> <img src="https://github.com/user-attachments/assets/0cf7dc8f-add9-47f2-82b7-7436eaee3286" height="40" /> <img src="https://github.com/user-attachments/assets/1b91a1a3-bbb2-41f0-9023-32af0490b13c" height="40" /> <img src="https://github.com/user-attachments/assets/bc1a0fea-0787-46e5-a7f4-315b8f00df06" height="40" /> <img src="https://user-images.githubusercontent.com/102726399/210111467-0f3d0a7c-fadb-4cf5-b9c4-541b5ca61495.png" height="40"/> <img src="https://user-images.githubusercontent.com/102726399/210113564-6777849c-36c9-46de-828c-f1299961ac2d.png" height="40"/><img src="https://user-images.githubusercontent.com/102726399/210113326-aefc9785-74ad-49f8-89f8-010d17c681a4.png"  height="40"/><img src="https://user-images.githubusercontent.com/102726399/210113101-63523a19-0d98-4269-b73e-32ef7d375ded.png" height="40"/>
 
 
 
 
 
-#### My last projects WEB 👩‍💻: 
+### My last projects WEB 👩‍💻: 
 
-  ##### 💻  Web - site:
+  #### 💻  Web - site:
 
   🥊 [Boxe club](https://boxe-ascm.netlify.app) - a boxing club website built using Next.js 14.1.4 and styled with Tailwind Material for a clean and responsive design. 
     
@@ -64,7 +64,7 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 
 
 
-#### My projects APPs 📱: 
+### My projects APPs 📱: 
 
 AIRBNB (iOS) - 2022
 
