@@ -37,27 +37,27 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 
   📈 Eikinox - front-end development with Vue 3 and TypeScript for a budget tracking application for construction projects, covering all stages, from project initiation to execution, including project initiation, contract management, payment scheduling, invoicing, and financial reporting.
   
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 25 54" src="https://github.com/user-attachments/assets/5b831f5f-553a-4553-a271-6436114d609c" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 30 13" src="https://github.com/user-attachments/assets/9b5da4df-fd17-4bbf-8db6-8c5d60f74991" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 29 53" src="https://github.com/user-attachments/assets/aaef30b8-5b16-4d7d-ad91-ea9b86a15c16" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 29 31" src="https://github.com/user-attachments/assets/3e4849e5-e4d0-46a0-b7bf-2307725f53d0" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 28 51" src="https://github.com/user-attachments/assets/cfa18912-041e-426f-9f4f-01463b990676" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 28 31" src="https://github.com/user-attachments/assets/538e1d5f-b440-44ee-b8eb-4a75fe8a8f54" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 28 19" src="https://github.com/user-attachments/assets/6bf9b979-6b5e-4765-889e-27e504865456" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 28 09" src="https://github.com/user-attachments/assets/16bc5ab1-02e0-48b0-b569-473765520683" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-16 à 14 32 13" src="https://github.com/user-attachments/assets/d3ad2d85-9820-44de-a580-f8d671975faa" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 25 54" src="https://github.com/user-attachments/assets/5b831f5f-553a-4553-a271-6436114d609c" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 30 13" src="https://github.com/user-attachments/assets/9b5da4df-fd17-4bbf-8db6-8c5d60f74991" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 29 53" src="https://github.com/user-attachments/assets/aaef30b8-5b16-4d7d-ad91-ea9b86a15c16" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 29 31" src="https://github.com/user-attachments/assets/3e4849e5-e4d0-46a0-b7bf-2307725f53d0" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 28 51" src="https://github.com/user-attachments/assets/cfa18912-041e-426f-9f4f-01463b990676" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 28 31" src="https://github.com/user-attachments/assets/538e1d5f-b440-44ee-b8eb-4a75fe8a8f54" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 28 19" src="https://github.com/user-attachments/assets/6bf9b979-6b5e-4765-889e-27e504865456" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 28 09" src="https://github.com/user-attachments/assets/16bc5ab1-02e0-48b0-b569-473765520683" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-16 à 14 32 13" src="https://github.com/user-attachments/assets/d3ad2d85-9820-44de-a580-f8d671975faa" />
 
 
    📘 Intranet platform.
   
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 47" src="https://github.com/user-attachments/assets/165416ac-49bd-464e-8108-c7db0f4f4a00" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 41" src="https://github.com/user-attachments/assets/4c7bfe0b-8d12-4ad2-8243-694fa3b611c6" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 23" src="https://github.com/user-attachments/assets/39076c91-2280-4344-91b5-61d1232d9aa5" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 18" src="https://github.com/user-attachments/assets/ea062f48-5777-427b-bd68-39806cb7f69b" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 05" src="https://github.com/user-attachments/assets/931cdf4e-70d9-46ed-957f-44e5fa507102" />
-<img height="300" width="450" alt="Capture d’écran 2024-12-17 à 15 43 01" src="https://github.com/user-attachments/assets/98de4224-fab6-41d2-b477-c0cb177e5000" />
-<img height="300" width="450"  alt="Capture d’écran 2024-12-17 à 15 43 47" src="https://github.com/user-attachments/assets/2cc1c648-7952-48e3-b2bd-6593cb51c305" />
-<img height="300" width="450"  alt="Capture d’écran 2024-12-17 à 15 43 41" src="https://github.com/user-attachments/assets/b2128b4b-8ffb-4b62-b277-0188850f7a5b" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 47" src="https://github.com/user-attachments/assets/165416ac-49bd-464e-8108-c7db0f4f4a00" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 41" src="https://github.com/user-attachments/assets/4c7bfe0b-8d12-4ad2-8243-694fa3b611c6" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 23" src="https://github.com/user-attachments/assets/39076c91-2280-4344-91b5-61d1232d9aa5" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 18" src="https://github.com/user-attachments/assets/ea062f48-5777-427b-bd68-39806cb7f69b" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 05" src="https://github.com/user-attachments/assets/931cdf4e-70d9-46ed-957f-44e5fa507102" />
+<img height="250" width="300" alt="Capture d’écran 2024-12-17 à 15 43 01" src="https://github.com/user-attachments/assets/98de4224-fab6-41d2-b477-c0cb177e5000" />
+<img height="250" width="300"  alt="Capture d’écran 2024-12-17 à 15 43 47" src="https://github.com/user-attachments/assets/2cc1c648-7952-48e3-b2bd-6593cb51c305" />
+<img height="250" width="300"  alt="Capture d’écran 2024-12-17 à 15 43 41" src="https://github.com/user-attachments/assets/b2128b4b-8ffb-4b62-b277-0188850f7a5b" />
 
 
 
