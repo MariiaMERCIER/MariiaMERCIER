@@ -34,7 +34,7 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 <img height="300" width="450" alt="Capture d’écran 2025-02-07 à 14 21 31" src="https://github.com/user-attachments/assets/87cb956c-3c3b-467e-934d-e1cb1200f144" />
 
 
-  #### 💼 Business apps:
+  #### 💼 Business web-apps:
 
   📈 Eikinox - front-end development with Vue 3 and TypeScript for a budget tracking application for construction projects, covering all stages, from project initiation to execution, including project initiation, contract management, payment scheduling, invoicing, and financial reporting.
   
