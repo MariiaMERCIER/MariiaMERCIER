@@ -23,12 +23,12 @@ I thrive on continuous improvement and enjoy taking on new challenges that allow
 
  #### 💻  Web - site:
 
-  🔨[Vitrier 2 Savoies]([https://www.vitrier-2-savoies]) - a professional showcase website for a local glazing service in Savoie, offering quick and reliable glass replacement and repair for windows, shopfronts, and other glazing needs. 
+  🔨[Vitrier 2 Savoies](https://www.vitrier-2-savoies) - a professional showcase website for a local glazing service in Savoie, offering quick and reliable glass replacement and repair for windows, shopfronts, and other glazing needs. 
 
-  => [View code]([https://github.com/MariiaMERCIER/Glazing])
+  => [View code](https://github.com/MariiaMERCIER/Glazing)
     
-<img width="300" height="450" alt="Capture d’écran 2026-01-08 à 16 57 51" src="https://github.com/user-attachments/assets/50b36f16-5e62-488f-895d-090f2e90c606" />
-<img width="300" height="450" alt="Capture d’écran 2026-01-08 à 16 58 10" src="https://github.com/user-attachments/assets/b13641ae-46eb-40ea-812b-17f945bb57b5" />
+<img width="450" height="300" alt="Capture d’écran 2026-01-08 à 16 57 51" src="https://github.com/user-attachments/assets/50b36f16-5e62-488f-895d-090f2e90c606" />
+<img width="450" height="300" alt="Capture d’écran 2026-01-08 à 16 58 10" src="https://github.com/user-attachments/assets/b13641ae-46eb-40ea-812b-17f945bb57b5" />
 
 
 
